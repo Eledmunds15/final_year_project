@@ -1,0 +1,9 @@
+These are all micrographs of IN713C produced by SLM. The Layer Thickness was constant for all conditions = 30 microns.
+
+Other process parameters are provided in the file name: Power-Beam Velocity-Hatch Spacing. 
+
+E.g. "110-1.0-40" is Power = 110 W; Beam Velocity = 1.0 m/s; Hatch Spacing = 40 micron.
+
+Images provided by Cong Lui - PhD Student at the Department of Materials Science and Engineering.
+
+
